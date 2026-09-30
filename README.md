@@ -150,4 +150,78 @@ Analyzes job satisfaction, environment satisfaction, and work-life balance in re
 
 ### Employee Experience
 
-Analyzes total wo
+Analyzes total working years, years at the company, years in the current role, and years since the last promotion.
+
+---
+
+## 📂 Repository Structure
+
+```text
+HR-Analytics-Dashboard-PowerBI/
+│
+├── Data/
+│   └── HR_Analytics-4.csv
+│
+├── SQL/
+│   └── HR_Analytics_SQL_Queries_SQL_Server.sql
+│
+├── PowerBI/
+│   └── HR_Analytics_Dashboard.pbix
+│
+├── Dashboard/
+│   └── HR_Analytics_Dashboard.png
+│
+└── README.md
+```
+
+---
+
+## 🖼️ Dashboard Preview
+
+Add your Power BI dashboard screenshot to the `Dashboard` folder and use:
+
+```markdown
+![HR Analytics Dashboard](Dashboard/HR_Analytics_Dashboard.png)
+```
+
+---
+
+## 💡 Skills Demonstrated
+
+* SQL
+* SQL Server
+* Data Analysis
+* Data Cleaning
+* Data Validation
+* KPI Analysis
+* Microsoft Excel
+* Power Query
+* Power BI
+* DAX
+* Data Visualization
+* Dashboard Development
+* HR Analytics
+* Business Insights
+
+---
+
+## 📁 Project Files
+
+* **Data:** Raw HR employee dataset
+* **SQL:** SQL Server queries used for HR analysis
+* **Power BI:** Interactive HR Analytics dashboard
+* **Dashboard:** Dashboard preview/screenshot
+
+---
+
+## 👤 Author
+
+**Hirehal Maaresh**
+
+Data Analyst | SQL | Excel | Power BI | Python
+
+GitHub: [Maaresh](https://github.com/Maaresh)
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository.
